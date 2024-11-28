@@ -1,0 +1,4 @@
+whois done
+dnslookup done
+port scan:
+    BinaryEdge done

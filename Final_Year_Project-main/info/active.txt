@@ -1,0 +1,5 @@
+subdomain Enum done
+Directory Enum done
+nmap scan for port done
+and service 
+
